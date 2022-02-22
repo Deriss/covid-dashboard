@@ -16,8 +16,8 @@ library(DT)
 #Loading token for dropbox connection
 token <- readRDS("droptoken.rds")
 #Loading the csv file from dropbox
-#data = drop_read_csv("coronavirus/covid19.csv",dtoken = token,encoding = "UTF-8",stringsAsFactors =FALSE)
-data = read.csv('C:\\Users\\juliana felicidade\\Dropbox\\coronavirus\\covid19.csv',encoding = "UTF-8",stringsAsFactors =FALSE)
+data = drop_read_csv("coronavirus/covid19.csv",dtoken = token,encoding = "UTF-8",stringsAsFactors =FALSE)
+
 
 head(data)
 #Pre-process the data
