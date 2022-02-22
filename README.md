@@ -1,6 +1,6 @@
 # Dashboard Coronavirus-19
 
-Esse dashboard apresenta em forma interativa gráficos, tabelas e mapas dos casos de Coronavirus actuais e acumulados para cada país.[Veja o dashboard aqui](https://deris.shinyapps.io/Coronavirus/)
+Esse dashboard apresenta em forma interativa gráficos, tabelas e mapas dos casos de Coronavirus actuais e acumulados para cada país. [Veja o dashboard aqui](https://deris.shinyapps.io/Coronavirus/)
 
 ![Gráficos](/images/dashboard-graficos.jpg?raw=true)
 
